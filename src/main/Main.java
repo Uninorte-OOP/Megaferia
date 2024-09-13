@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Test: Conflict");
         System.out.println("This is a conflict");
         System.out.println("Test for conflict");
+	System.out.println("This is a test");
     }
     
 }
